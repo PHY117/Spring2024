@@ -1,12 +1,9 @@
 ---
-title: "PHY117S24"
+title: "PHY 117 Spring 2023"
+format: html
+editor: visual
 jupyter: python3
 ---
 
-This is a Quarto website.
+Welcome to the Spring 2024 version of PHY 117!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{python}
-1 + 1
-```

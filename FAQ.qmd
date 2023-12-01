@@ -1,0 +1,16 @@
+---
+title: "FAQ"
+format: 
+  html:
+    toc: true
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+    self-contained: true
+editor: visual
+jupyter: python3
+---
+
+
+FAQ goes here

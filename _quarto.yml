@@ -4,11 +4,31 @@ project:
 website:
   title: "PHY117S24"
   navbar:
+    background: primary #color of background is primary color in palette
+    search: true
+    #left is left-aligned top bar
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - sidebar:PHY117
+      - sidebar:syllabus
+            
+  sidebar:
+    - id: PHY117
+      title: "Course Description"
+      style: "docked"
+      background: light
+      contents:
+       - href:https://phy117.github.io/
+       
+    - id: syllabus
+      title: "Syllabus, Schedule, and FAQ"
+      style: "docked"
+      background: light
+      contents:
+       - syllabus.qmd
+       - FAQ.qmd
+   
 format:
   html:
     theme: cosmo
