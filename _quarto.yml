@@ -10,23 +10,19 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - sidebar:PHY117
+      - href: https://phy117.github.io/
+        text: "Course Description"
       - sidebar:syllabus
             
   sidebar:
-    - id: PHY117
-      title: "Course Description"
-      style: "docked"
-      background: light
-      contents:
-       - href:https://phy117.github.io/
-       
     - id: syllabus
       title: "Syllabus, Schedule, and FAQ"
       style: "docked"
       background: light
       contents:
        - syllabus.qmd
+       - href: https://docs.google.com/spreadsheets/d/1NN6zv30J_MdUYzjDmjOMn1q-IKhxN0H8w9O3rMQsQ1A/edit?usp=sharing
+         text: "Schedule"
        - FAQ.qmd
    
 format:

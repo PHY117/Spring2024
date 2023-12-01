@@ -13,4 +13,8 @@ jupyter: python3
 ---
 
 
-FAQ goes here
+# When are your office hours?
+
+# Can I have an extension?
+
+# Can I revise and resubmit something I did poorly on?
