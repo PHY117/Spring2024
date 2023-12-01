@@ -12,4 +12,90 @@ editor: visual
 jupyter: python3
 ---
 
-Syllabus goes here
+## Classroom expectations {#classexpectations}
+
+### What you can expect from Casey and Manbir
+* We will stay home if we are feeling sick and make arrangements to deliver the course material
+* We will work with you to arrange accommodations when you need them
+* We will respect your time by starting and ending class on time
+* We will answer your questions thoughtfully, and if we don’t know the answer, we will follow up in a timely manner
+* We will model respect, openness, and engagement, and foster a supportive and inclusive environment
+* We will be honest when we make mistakes, because failure is part of growing
+
+
+### What Casey and Manbir expect from you
+* That you will stay home if you are sick and contact us via email to arrange accommodations
+* That you genuinely attempt to engage with the course
+* That you ask questions if you are confused (you may do this privately – there is no obligation to ask during class hours)
+* That you communicate with us when you have problems that interfere with your ability to engage with the coursework
+* That you treat your peers with respect and openness, and that you participate in creating an inclusive, supportive, and engaged classroom
+
+## Assignments and Grading {#assignments}
+
+Assignments fall into "bundles," which make up a percent of the grade. Each assignment within a bundle is equally weighted, and individual assignments will all be graded with a rubric that includes the learning objectives, so that you can see very clearly what you missed.
+
+
+Grades will be determined from percentages using the following table:
+
+| Letter grade  | Percent range  |
+|--------|--------|
+| A  | 92.5 ≤ x ≤ 100  |
+| A-   | 90 ≤ x < 92.5   |
+| B+ | 87.5 ≤ x < 90   |
+| B  | 82.5 ≤ x < 87.5  |
+| B-   | 80 ≤ x < 82.5   |
+| C+ | 77.5 ≤ x < 80   |
+| C  | 72.5 ≤ x < 77.5  |
+| C-   | 70 ≤ x < 72.5   |
+| D+ | 67.5 ≤ x < 70   |
+| D  | 62.5 ≤ x < 67.5  |
+| D-   | 60 ≤ x < 62.5   |
+| F   | 0 ≤ x < 60   |
+
+: Letter grades {.striped .hover}
+
+::: panel-tabset
+# Growth Mindset (15%)
+
+An important element of being a scientist is seeing opportunities to improve from mistakes and failures. This is emphasized in this class in multiple ways, through homework and test re-dos as well as through this growth mindset assignment, which spans the entire semester. This assign- ment cannot be redone, and some of the deadlines are fixed in order to make it a useful activity.
+
+* Course pre-test (1 hr, graded on completion, not content)
+* Course post-test (1 hr, graded on completion, not content)
+* Math Assessment (with two chances to re-take)
+* Growth Mindset Reflection
+* SMART goal setting
+* SMART goal mid-semester check-in
+* SMART goal final reflection
+
+Given the purpose of these activities, we will not offer extensions beyond one week on the deadlines for the Growth Mindset bundle, except in case of a major medical or family emergency.
+
+# Practice (30%)
+
+* Weekly Cornell Notes
+  - This will include one initial assignment to demonstrate how to do Cornell Notes
+  - To learn more about Cornell Notes, there is a detailed walkthrough in the [FAQ](#cornellnotes)
+  - You can drop 2 Cornell Notes assignments with no penalty
+* Weekly Problems
+  - The first question on the weekly problem set is a reflection on the previous problem set
+  - You can drop 2 Weekly Problem assignments with no penalty
+
+# Lab Reports (20%)
+
+There will be three lab reports during the semester. These reports are more than just a short write-up of what you did. These are an exercise in synthesizing the concepts you learned in class with the activities you did in the laboratory. The lab write-ups must include a short introductory paragraph putting into context the activity, a clear statement of the question you were trying to answer with the activity, an explanation of the methods you used (what did you measure, how did you do it, how did you account for error, etc), a visualization of your results (using plots and figures), and a discussion of what your results mean. We don’t ever expect you to have perfect data, so this discussion is an opportunity to explain the problems that arose and what you might have done differently if you’d had more time.
+
+  - There will be three labs you can write up
+  - You only need to write up two of them
+  - You may revise each lab report once
+  
+Note: Lab activities will be integrated into many classes, and sometimes the data you collect in these activities will be used in your weekly homework assignment for that week or for a lab report. Completing the labs is an important part of your learning in the course, so you may not use another student’s data for your homework problem or lab report. If you are unable to attend a class you may contact the instructor (in advance if possible) about finding a time to make up the lab work.
+
+# Jigsaw Solve/Teach Activities (20%)
+There will be three jigsaw activities during the semester. In these activities, you will be given a challenging problem to solve in small groups. Together your group must write up a “lesson plan” that demonstrates how to approach and solve that problem. In the next class period, you will be split into different groups in which each member of the group solved a different problem, and you will have to teach your problem to that group. To get credit for these jigsaws, you must participate in both days of activity and submit your write-up for the question you were assigned and a second write-up for one of the problems you learned on the second day.
+
+
+# The Problem Project (15%)
+
+
+:::
+
+## Deadlines and Extensions {#deadlines}

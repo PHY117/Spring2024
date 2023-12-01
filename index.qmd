@@ -1,9 +1,39 @@
 ---
 title: "PHY 117 Spring 2023"
-format: html
+format: 
+  html:
+    link-external-newwindow: true
 editor: visual
 jupyter: python3
 ---
 
 Welcome to the Spring 2024 version of PHY 117!
 
+# Land Acknowledgment
+
+We acknowledge that we are on Indigenous land: the territory of the Nipmuc people. We are grateful for the opportunity to live, learn, and grow on this sacred land, and extend our respect to citizens of this nation who live here today, and to their ancestors who have lived here for hundreds of generations. We recognize the repeated violations of sovereignty, territory, and water perpetrated by invaders who have impacted the original inhabitants of this land for 400 years. We know this acknowledgement is insufficient, and does not undo the harm that has been done and continues to be perpetrated now against Indigenous people and their land and water.
+
+
+# About this course
+
+## Course Description
+You can see the PHY 117 course description [here](https://phy117.github.io/).
+
+## Course Objectives
+By the end of this course, you will be able to
+
+* identify and describe the physical concepts and principles governing mechanics (both stat- ics and kinematics) of solids
+* connect physical scenarios with introductory calculus, including use of vectors
+* employ various experimental setups, make accurate measurements, and understand the limitations of measurement devices
+* describe sources of error and uncertainty and calculate their effect on a measurement
+* apply a four-step problem solving method to physical scenarios, including identifying an appropriate model, visualizing the scenario, solving using a mathematical representation, and assessing your results
+
+## Course Topics
+This course covers the following content:
+
+* Measurement, Error, and Uncertainty 
+* Kinematics (1D and 2D)
+* Forces and Newton’s Laws
+* Momentum and Collisions
+* Energy and Work
+* Rotation and Torque
