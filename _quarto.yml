@@ -25,6 +25,13 @@ website:
        - href: https://docs.google.com/spreadsheets/d/1NN6zv30J_MdUYzjDmjOMn1q-IKhxN0H8w9O3rMQsQ1A/edit?usp=sharing
          text: "Schedule"
        - FAQ.qmd
+       
+    - id: content
+      title: "Course Content"
+      style: "docked"
+      background: light
+      contents:
+       - concepts.qmd
    
 format:
   html:

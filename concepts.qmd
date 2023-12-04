@@ -1,0 +1,30 @@
+---
+title: "Concepts in Mechanics"
+format: 
+  html:
+    toc: true
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+    self-contained: true
+editor: visual
+jupyter: python3
+---
+
+# The Four-Step Problem Solving Method {#fourstepmethod}
+
+
+# Key Ideas {#keyideas}
+::: panel-tabset
+# Kinematics
+
+# Forces 
+
+# Collisions and Interactions
+
+# Energy
+
+# Rotation
+
+::: 
