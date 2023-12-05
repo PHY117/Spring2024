@@ -81,7 +81,7 @@ Good note-taking and regular problem-solving are very important to developing co
 
 -   Weekly Cornell Notes
     -   This will include one initial assignment to demonstrate how to do Cornell Notes
-    -   To learn more about Cornell Notes, there is a detailed walkthrough in the [FAQ](#cornellnotes)
+    -   To learn more about Cornell Notes, there is a detailed walkthrough in the [FAQ](faq.qmd#cornellnotes)
 -   Weekly Problem Sets
     -   The first question on the weekly problem set is a reflection on the previous problem set
     
@@ -121,7 +121,7 @@ You may revise and resubmit each jigsaw write-up one time.
 
 The student becomes the teacher... your final project for this class is to write a physics problem similar to the jigsaw problems. You must:
 
--   select at least one key idea from three of the five different [groups](#keyideas)
+-   select at least one key idea from three of the five different [groups](coursecontent.qmd#keyideas)
 -   write a physics problem that tests understanding those three key ideas
 -   write up a detailed solution to that problem using the [four-step problem solving method](coursecontent.qmd#fourstepmethod)
 -   explain how your problem tests understanding for the three key ideas you selected

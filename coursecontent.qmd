@@ -14,18 +14,18 @@ jupyter: python3
 
 # The Four-Step Problem Solving Method {#fourstepmethod}
 
-
 # Key Ideas {#keyideas}
+
 ::: panel-tabset
 # Kinematics
+
 <!-- -   displacement is change in position and is not dependent on choice of origin -->
 
-# Forces 
+# Forces
 
 # Collisions and Interactions
 
 # Energy
 
 # Rotation
-
-::: 
+:::

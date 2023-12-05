@@ -55,7 +55,7 @@ If you email me on a weekday, you can expect a response from me within 24 hours.
 
 Grades are not curved; your grade depends only on your own performance, supporting your fellow students will help every one of you.
 
-Your grades can be calculated using our [template grading sheet](https://docs.google.com/spreadsheets/d/1o43gE7XIsHia5bAcqoeek3scpJ-EyI1tOqB7SRFVZX0/edit?usp=sharing), and letter grades are determined from percentages using [this chart](#lettergrades)
+Your grades can be calculated using our [template grading sheet](https://docs.google.com/spreadsheets/d/1o43gE7XIsHia5bAcqoeek3scpJ-EyI1tOqB7SRFVZX0/edit?usp=sharing), and letter grades are determined from percentages using [this chart](syllabus.qmd#lettergrades)
 
 ## What the heck are Cornell Notes?? {#cornellnotes}
 
