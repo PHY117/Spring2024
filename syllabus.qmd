@@ -38,6 +38,7 @@ jupyter: python3
 
 Assignments fall into "bundles," which make up a percent of the grade. Each assignment within a bundle is equally weighted, and individual assignments will all be graded with a rubric that includes the learning objectives, so that you can see very clearly what you missed.
 
+### Letter grade table {#lettergrades}
 Grades will be determined from percentages using the following table:
 
 | Letter grade | Percent range    |
@@ -59,9 +60,9 @@ Grades will be determined from percentages using the following table:
 
 # Grading bundles
 ::: panel-tabset
-# Growth Mindset (15%)
+# Growth Mindset (10%)
 
-An important element of being a scientist is seeing opportunities to improve from mistakes and failures. This is emphasized in this class in multiple ways, through homework and test re-dos as well as through this growth mindset assignment, which spans the entire semester. This assign- ment cannot be redone, and some of the deadlines are fixed in order to make it a useful activity.
+An important element of being a scientist is seeing opportunities to improve from mistakes and failures. This is emphasized in this class in multiple ways, through homework and test re-dos as well as through this growth mindset assignment, which spans the entire semester. This assignment cannot be redone, and some of the deadlines are fixed in order to make it a useful activity.
 
 -   Course pre-test (1 hr, graded on completion, not content)
 -   Course post-test (1 hr, graded on completion, not content)
@@ -114,7 +115,7 @@ To get credit for these jigsaws, you must:
 
 You may revise and resubmit each jigsaw write-up one time.
 
-# The Problem Project (15%)
+# The Problem Project (10%)
 
 The student becomes the teacher... your final project for this class is to write a physics problem similar to the jigsaw problems. You must:
 -   select at least one key idea from three of the five different [groups](#keyideas)
@@ -125,7 +126,5 @@ The student becomes the teacher... your final project for this class is to write
 ** Because this is due during finals week, there will not be an opportunity to revise and resubmit this **
 
 :::
-
-You may have noticed that the percentages don't add up to 100. This is by design -- we want you to feel like you can push yourself to learn and grow without the external pressure of grades. 
 
 ## Deadlines and Extensions {#deadlines}

@@ -18,6 +18,7 @@ jupyter: python3
 # Casey
 
 Office hours:
+
 -   in-person (McConnell 301A): TBD
 -   [zoom](https://smith.zoom.us/j/98280229454): TBD
 -   by appointment: see Moodle for a link to my calendly page and schedule an appointment
@@ -52,11 +53,13 @@ If you email me on a weekday, you can expect a response from me within 24 hours.
 
 Grades are not curved; your grade depends only on your own performance, supporting your fellow students will help every one of you.
 
+Your grades can be calculated using our [template grading sheet](https://docs.google.com/spreadsheets/d/1o43gE7XIsHia5bAcqoeek3scpJ-EyI1tOqB7SRFVZX0/edit?usp=sharing), and letter grades are determined from percentages using [this chart](#lettergrades)
+
 ## What the heck are Cornell Notes?? {#cornellnotes}
 
 ## What should I do if I get behind on my work? {#catchingup}
 
-## Why do the percentages in the grading bundles add up to more than 100? {#morethan100percent}
+<!--## Why do the percentages in the grading bundles add up to more than 100? {#morethan100percent}
 
 Our goal in this class is to help you learn, and there is more than one way to develop a deep understanding of a topic. We want you to be outside your comfort zone, but not so stressed by deadlines and grades that you can't explore these topics.
 
@@ -67,4 +70,4 @@ To get an A in this class, you need a 92.5%, and you can earn up to 115%. This g
 -   If you have a note-taking strategy that you love and you really don't want to do Cornell notes, you can still get an A.
 -   If you really struggle with teaching a problem to your classmates, you don't have to ace that activity to get an A.
 -   If you do great work all semester and have a high enough grade going into the last few weeks of the semester, you can skip the final project entirely.
-So think about what will allow you to focus on learning and step outside your comfort zone in this class, and Casey and Manbir are both happy to help you with this!
+So think about what will allow you to focus on learning and step outside your comfort zone in this class, and Casey and Manbir are both happy to help you with this!-->

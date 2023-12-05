@@ -18,6 +18,7 @@ jupyter: python3
 # Key Ideas {#keyideas}
 ::: panel-tabset
 # Kinematics
+<!-- -   displacement is change in position and is not dependent on choice of origin -->
 
 # Forces 
 
