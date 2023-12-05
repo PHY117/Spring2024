@@ -105,7 +105,7 @@ Note: We don't ever expect you to have perfect data, so use the discussion as an
 
 You may revise and resubmit each lab report one time.
 
-### Jigsaw Solve/Teach Activities (25%)
+### Jigsaw (25%)
 
 There will be two jigsaw activities during the semester. In these activities, you will be given a challenging problem to solve in small groups. Together your group must write up a "lesson plan" that demonstrates how to approach and solve that problem. In the next class period, you will be split into different groups in which each member of the group solved a different problem, and you will have to teach your problem to that group. 
 
