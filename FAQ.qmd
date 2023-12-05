@@ -16,7 +16,7 @@ jupyter: python3
 ## When are your office hours? {#officehours}
 
 ::: panel-tabset
-# Casey
+### Casey
 
 Office hours:
 
@@ -24,7 +24,7 @@ Office hours:
 -   [zoom](https://smith.zoom.us/j/98280229454): TBD
 -   by appointment: see Moodle for a link to my calendly page and schedule an appointment
 
-# Manbir
+### Manbir
 :::
 
 ## When is \_\_ due? {#duedates}
@@ -44,11 +44,11 @@ For most assignments, yes. Some assignments cannot be revised or retaken because
 Timely communication is really important, but in order to be effective instructors, we also need to be able to take breaks from email. Here are the expectations you can have of us with respect to email response time:
 
 ::: panel-tabset
-# Casey
+### Casey
 
 If you email me on a weekday, you can expect a response from me within 24 hours. If you email me on a weekend, you can expect a response from me by class time on Monday (or the first day back if it's a long weekend or holiday).
 
-# Manbir
+### Manbir
 :::
 
 ## Do you grade on a curve? {#gradingcurve}
