@@ -1,5 +1,5 @@
 ---
-title: "PHY 117 Spring 2023"
+title: "PHY 117 Spring 2024"
 format: 
   html:
     link-external-newwindow: true
