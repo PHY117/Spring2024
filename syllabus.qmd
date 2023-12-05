@@ -123,7 +123,7 @@ The student becomes the teacher... your final project for this class is to write
 
 -   select at least one key idea from three of the five different [groups](#keyideas)
 -   write a physics problem that tests understanding those three key ideas
--   write up a detailed solution to that problem using the [four-step problem solving method](#fourstepmethod)
+-   write up a detailed solution to that problem using the [four-step problem solving method](coursecontent.qmd#fourstepmethod)
 -   explain how your problem tests understanding for the three key ideas you selected
 
 **Because this is due during finals week, there will not be an opportunity to revise and resubmit this**
