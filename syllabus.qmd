@@ -109,6 +109,7 @@ You may revise and resubmit each lab report one time.
 There will be two jigsaw activities during the semester. In these activities, you will be given a challenging problem to solve in small groups. Together your group must write up a "lesson plan" that demonstrates how to approach and solve that problem. In the next class period, you will be split into different groups in which each member of the group solved a different problem, and you will have to teach your problem to that group. 
 
 To get credit for these jigsaws, you must:
+
 -   participate in both days of activity
 -   submit your "lesson plan" write-up for the question you were assigned
 -   submit a second write-up for **one** of the problems you learned on the second day
@@ -118,6 +119,7 @@ You may revise and resubmit each jigsaw write-up one time.
 # The Problem Project (10%)
 
 The student becomes the teacher... your final project for this class is to write a physics problem similar to the jigsaw problems. You must:
+
 -   select at least one key idea from three of the five different [groups](#keyideas)
 -   write a physics problem that tests understanding those three key ideas
 -   write up a detailed solution to that problem using the [four-step problem solving method](#fourstepmethod)
