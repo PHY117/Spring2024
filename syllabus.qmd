@@ -3,6 +3,7 @@ title: "Syllabus"
 format: 
   html:
     toc: true
+    link-external-newwindow: true
   pdf:
     toc: true
     number-sections: true
