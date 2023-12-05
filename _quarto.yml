@@ -23,15 +23,11 @@ website:
       style: "docked"
       background: light
       contents:
-       - href: syllabus.qmd
-         text: "Syllabus" 
-         target: _blank #makes it open in new page
+       - syllabus.qmd
        - href: https://docs.google.com/spreadsheets/d/1NN6zv30J_MdUYzjDmjOMn1q-IKhxN0H8w9O3rMQsQ1A/edit?usp=sharing
          text: "Schedule"
          target: _blank #makes it open in new page
-       - href: FAQ.qmd
-         text: "FAQ"
-         target: _blank #makes it open in new page
+       - FAQ.qmd
        
     - id: coursecontent
       title: "Course Content"
