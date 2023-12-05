@@ -14,19 +14,19 @@ website:
       - href: https://phy117.github.io/
         text: "Course Description"
         target: _blank #makes it open in new page
+      - href: https://docs.google.com/spreadsheets/d/1NN6zv30J_MdUYzjDmjOMn1q-IKhxN0H8w9O3rMQsQ1A/edit?usp=sharing
+        text: "Schedule" 
+        target: _blank #makes it open in new page
       - sidebar:syllabus
       - sidebar:coursecontent
             
   sidebar:
     - id: syllabus
-      title: "Syllabus, Schedule, and FAQ"
+      title: "Syllabus and FAQ"
       style: "docked"
       background: light
       contents:
        - syllabus.qmd
-       - href: https://docs.google.com/spreadsheets/d/1NN6zv30J_MdUYzjDmjOMn1q-IKhxN0H8w9O3rMQsQ1A/edit?usp=sharing
-         text: "Schedule"
-         target: _blank #makes it open in new page
        - FAQ.qmd
        
     - id: coursecontent
