@@ -58,11 +58,11 @@ Grades will be determined from percentages using the following table:
 
 : Letter grades {.striped .hover}
 
-# Grading bundles
+## Grading bundles
 ::: panel-tabset
 # Growth Mindset (10%)
 
-An important element of being a scientist is seeing opportunities to improve from mistakes and failures. This is emphasized in this class in multiple ways, through homework and test re-dos as well as through this growth mindset assignment, which spans the entire semester. This assignment cannot be redone, and some of the deadlines are fixed in order to make it a useful activity.
+An important element of being a scientist is seeing opportunities to improve from mistakes and failures. This is emphasized in this class in multiple ways, through homework and test re-dos as well as through the goal-setting assignment, which spans the entire semester. Please note that some of the deadlines are more rigid in this bundle in order to make it a useful activity.
 
 -   Course pre-test (1 hr, graded on completion, not content)
 -   Course post-test (1 hr, graded on completion, not content)
