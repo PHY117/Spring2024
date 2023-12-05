@@ -13,6 +13,7 @@ website:
         text: Home
       - href: https://phy117.github.io/
         text: "Course Description"
+        target: _blank
       - sidebar:syllabus
       - sidebar:coursecontent
             
