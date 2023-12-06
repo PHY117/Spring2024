@@ -42,7 +42,7 @@ jupyter: python3
 
 ## Assignments and Grading {#assignments}
 
-Assignments fall into "bundles," which make up a percent of the grade. Each assignment within a bundle is equally weighted, and individual assignments will all be graded with a rubric that includes the learning objectives, so that you can see very clearly what you missed.
+Assignments fall into "bundles," which each make up a percent of the grade. Each assignment within a bundle is equally weighted, and individual assignments will all be graded with a rubric that includes the learning objectives, so that you can see very clearly what you missed.
 
 ### Letter grade table {#lettergrades}
 
