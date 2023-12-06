@@ -9,7 +9,7 @@ format:
     number-sections: true
     colorlinks: true
     self-contained: true
-editor: visual
+editor: source
 jupyter: python3
 ---
 
@@ -33,7 +33,9 @@ You can find all due dates on the [course schedule](https://docs.google.com/spre
 
 ## Can I have an extension? {#extensionpolicy}
 
-Some assignments will have hard deadlines. These assignments include the first Cornell Notes assignment, the math assessment, and all the Growth Mindset assignments. The reason for these hard deadlines is due to the nature of the assignments -- for example, it is not helpful for you to take the math assessment and discover in the last week of class that you really should review trig. For all other assignments, if you need an extension, you may request one using [this form](https://forms.gle/qTLy66bkUNZ5ibTj7). We recognize that things come up and you may require some flexibility at some point in the semester. Please feel free to reach out to your instructor if you are struggling to meet a deadline. We want to support you and make sure you have the best possible chance for success in this class!
+In general, we are happy to work with you on deadlines, but it's important for you to communicate with us. You can request extensions using [this form](https://forms.gle/qTLy66bkUNZ5ibTj7). Please note that the 48 hour extension is automatically granted, while anything longer than that requires that we have a conversation. That conversation starts by you proposing a new deadline in the form, and then your instructor can talk to you about what's possible or reasonable given the course schedule, your circumstances, and other factors that may vary as the semester progresses.
+
+For more on our deadlines and extension policy, see the [syllabus](syllabus.qmd#deadlines).
 
 ## Can I revise and resubmit something I did poorly on? {#revisionpolicy}
 
@@ -60,6 +62,14 @@ Your grades can be calculated using our [template grading sheet](https://docs.go
 ## What the heck are Cornell Notes?? {#cornellnotes}
 
 ## What should I do if I get behind on my work? {#catchingup}
+
+First, reach out to your instructor. It helps us to know that you are working on catching up. We are also happy to meet and help you set adjusted deadlines to get back on track.
+
+Second, if you are feeling really overwhelmed, consider scheduling an appointment with [Duncan Griffin](https://go.oncehub.com/LearningSpecialistDuncanGriffin) at the Jacobson Center. His role is to support students seeking help with time management, organization, reading, test-taking, note-taking, and other academic skills. He can help you talk through what strategies work for you, what strategies don't, and how to manage your time and energy in a more sustainable way.
+
+## I have accommodations from ODS. What should I do? {#ODS}
+
+We have tried to bring the concept of [universal design](https://www.washington.edu/doit/what-universal-design-0) into how we have planned and structured this course, so we hope that any accommodations you have from ODS are already built into this course. However, we don't expect to have done this perfectly (as there is no such thing), so if you have need of certain accommodations that are not already provided by this class, please let us know and we will do our best to meet those needs.
 
 ```{=html}
 <!--## Why do the percentages in the grading bundles add up to more than 100? {#morethan100percent}
