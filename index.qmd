@@ -3,7 +3,7 @@ title: "PHY 117 Spring 2024"
 format: 
   html:
     link-external-newwindow: true
-editor: visual
+editor: source
 jupyter: python3
 ---
 

@@ -82,6 +82,8 @@ Your grades can be calculated using our [template grading sheet](https://docs.go
 
 ## What the heck are Cornell Notes?? {#cornellnotes}
 
+## Can I use ChatGPT in this class? {#ChatGPT}
+
 ## What should I do if I get behind on my work? {#catchingup}
 
 First, reach out to your instructor. It helps us to know that you are working on catching up. We are also happy to meet and help you set adjusted deadlines to get back on track.
