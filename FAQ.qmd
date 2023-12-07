@@ -82,7 +82,56 @@ Your grades can be calculated using our [template grading sheet](https://docs.go
 
 ## What the heck are Cornell Notes?? {#cornellnotes}
 
+Cornell Notes are a method of structuring your note-taking to improve comprehension and retention. You can read more about Cornell Notes [here](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/).
+
+The goal of Cornell Notes is not just good in-class note-taking, but developing a short but effective regular review process. To do this, you divide your page into four blocks, as shown below.
+
+![](graphics/CornellNotes0.png){fig-alt="A lined page divided into 4 rectangles: a long horizontal header at the top, a long horizontal footer at the bottom, and the middle section divided into one tall and narrow sidebar and a larger space to the right" fig-align="left" width=50%}
+
+Each of these four spaces has a purpose:
+
+-   The header is where you write the topic: in just a few words, what is this lesson about?
+-   The largest section is for taking notes during class, just as you'd always take notes
+-   The sidebar on the left is where you write cues or questions about the content
+-   The footer is where you write a brief (one-sentence) summary of the page's content
+
+The process for doing this can be divided into three steps:
+
+::: panel-tabset
+### During class
+
+![](graphics/CornellNotes1.png){fig-alt="The same lined page, but the header is highlighted and says 'topic' and the largest rectangle is highlighted and says 'notes from class'" fig-align="left" width=50%}
+
+During class, you fill out the topic and take notes in the largest space, as shown here. You don't have to worry about structuring these notes in any way. Write whatever you would usually write, include sketches and equations and diagrams, etc.. You will reflect on these notes later in the remaining spaces, and it's those spaces that will help make your notes more useful.
+
+### Later that day
+![](graphics/CornellNotes2.png){fig-alt="The same lined page, but now the sidebar on the left is highlighted and says 'questions and key words'" fig-align="left" width=50%}
+
+After class, preferably on the same day, but the next day is okay, you read over your notes and as you go, jot down some questions and key words in the sidebar. These will help you when you're studying -- consider them prompts whose answers appear in the notes to the right.
+
+This is the "Recall Column" -- it's where you leave a short note that helps you recall the content of the notes.
+
+
+### Later that week
+
+![](graphics/CornellNotes3.png){fig-alt="The same lined page, but now the footer on the bottom is highlighted and says 'summary'" fig-align="left" width=50%}
+
+At the end of the week of lectures, skim your notes one more time (those key words should help make this fast!) and at the bottom of each page, jot down a one sentence summary of what the most important concepts on that page are.
+
+This is something you can do when working on the weekly homework problem -- as you look through your notes to help determine how to solve the problem, add these summaries at the end of each page.
+
+:::
+
 ## Can I use ChatGPT in this class? {#ChatGPT}
+
+Large Language Models (LLMs) are likely here to stay. Banning them from the classroom is both pointless and actively unhelpful. If you are going to use ChatGPT or a similar LLM in this class, we only require two things:
+
+1.    That you do a little reading on Large Language Models. Specifically, read [this article about how LLMs actually work](https://stackoverflow.blog/2023/07/03/do-large-language-models-know-what-they-are-talking-about/) and [this article about the ethical considerations around LLMs](https://montrealethics.ai/what-lies-behind-agi-ethical-concerns-related-to-llms/)
+
+2.    That you consider ChatGPT a source that you must cite. If you use ChatGPT or another LLM to help with any assignment, you must acknowledge that help and give a short (one-sentence) description of what the LLM did for you and how it helped you solve the problem.
+
+Remember that LLMs are designed to predict the most likely response to a question, which is not always the best or even correct response. They are prone to "hallucinating" (making stuff up, often in a way that is convincing but still false). They can't do creative problem solving, which is the most important skill we are teaching in this class.
+
 
 ## What should I do if I get behind on my work? {#catchingup}
 
