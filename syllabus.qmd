@@ -92,7 +92,7 @@ Good note-taking and regular problem-solving are very important to developing co
     - Cornell Notes assignments are graded with a [rubric](pdfs/PHY 117 Cornell_Notes_Grading_Rubric.pdf)
 -   Weekly Problem Sets
     -   The first question on the weekly problem set is a reflection on the previous problem set
-    -     The weekly problem set are graded using a rubric 
+    -     The weekly problem set are graded using a [rubric](pdfs/PHY 117 WHW_Grading_Rubric.pdf) 
 
 **You can drop any 4 items in the "Practice" bundle with no penalty**
 
