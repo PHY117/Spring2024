@@ -112,7 +112,7 @@ The lab reports must include:
 -   a visualization of your results (using plots and figures)
 -   a discussion of what your results mean.
 
-These reports are graded using [this rubric](pdfs/PHY 117 WHW_Grading_Rubric/pdf).
+These reports are graded using [this rubric](pdfs/PHY 117 Lab_Report_Grading_Rubric.pdf).
 
 Note: We don't ever expect you to have perfect data, so use the discussion as an opportunity to explain the problems that arose and what you might have done differently if you'd had more time.
 
