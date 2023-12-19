@@ -65,10 +65,10 @@ Grades will be determined from percentages using the following table:
 
 : Letter grades {.striped .hover}
 
-## Grading bundles
+### Grading bundles
 
 ::: panel-tabset
-### Growth Mindset (10%)
+#### Growth Mindset (10%)
 
 An important element of being a scientist is seeing opportunities to improve from mistakes and failures. This is emphasized in this class in multiple ways, through homework and test re-dos as well as through the goal-setting assignment, which spans the entire semester. Please note that some of the deadlines are more rigid in this bundle in order to make it a useful activity.
 
@@ -82,7 +82,7 @@ An important element of being a scientist is seeing opportunities to improve fro
 
 Given the purpose of these activities, we will not offer extensions beyond one week on the deadlines for the Growth Mindset bundle, except in case of a major medical or family emergency.
 
-### Practice (30%)
+#### Practice (30%)
 
 Good note-taking and regular problem-solving are very important to developing confidence and skill in this content, so every week you will have to turn in your Cornell Notes for the class and a short weekly problem set. More details below:
 
@@ -98,11 +98,11 @@ Good note-taking and regular problem-solving are very important to developing co
 
 **You can drop any 4 items in the "Practice" bundle with no penalty**
 
-### Labs and Lab Reports (25%)
+#### Labs and Lab Reports (25%)
 
 Lab activities will be integrated into many classes, and completing the labs is an important part of your learning in the course, so you may not use another student's data for your homework problem or lab report. If you are unable to attend a class you may contact the instructor (in advance if possible) about finding a time to make up the lab work.
 
-There will be three labs you can write a report on during the semester, **but you only need to do two of them**. These reports are more than just a short write-up of what you did. These are an exercise in synthesizing the concepts you learned in class with the activities you did in the laboratory.
+There will be two labs you can write a report on during the semester. These reports are more than just a short write-up of what you did. These are an exercise in synthesizing the concepts you learned in class with the activities you did in the laboratory.
 
 The lab reports must include:
 
@@ -118,9 +118,9 @@ Note: We don't ever expect you to have perfect data, so use the discussion as an
 
 You may revise and resubmit each lab report one time.
 
-### Jigsaw (25%)
+#### Jigsaw (25%)
 
-There will be two jigsaw activities during the semester. In these activities, you will be given a challenging problem to solve in small groups. Together your group must write up a "lesson plan" that demonstrates how to approach and solve that problem. In the next class period, you will be split into different groups in which each member of the group solved a different problem, and you will have to teach your problem to that group.
+There will be thre jigsaw activities during the semester, **but you only need to turn in two of them**. In these activities, you will be given a challenging problem to solve in small groups. Together your group must write up a "lesson plan" that demonstrates how to approach and solve that problem. In the next class period, you will be split into different groups in which each member of the group solved a different problem, and you will have to teach your problem to that group.
 
 To get credit for these jigsaws, you must:
 
@@ -130,7 +130,7 @@ To get credit for these jigsaws, you must:
 
 You may revise and resubmit each jigsaw write-up one time.
 
-### The Problem Project (10%)
+#### The Problem Project (10%)
 
 The student becomes the teacher... your final project for this class is to write a physics problem similar to the jigsaw problems. You must:
 
