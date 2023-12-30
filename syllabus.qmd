@@ -128,6 +128,8 @@ To get credit for these jigsaws, you must:
 -   submit your "lesson plan" write-up for the question you were assigned
 -   submit a second write-up for **one** of the problems you learned on the second day
 
+These jigsaws are graded using [this rubric](pdfs/PHY 117 Jigsaw_Grading_Rubric.pdf).
+
 You may revise and resubmit each jigsaw write-up one time.
 
 #### The Problem Project (10%)
