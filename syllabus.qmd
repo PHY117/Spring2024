@@ -141,7 +141,9 @@ The student becomes the teacher... your final project for this class is to write
 -   write up a detailed solution to that problem using the [four-step problem solving method](coursecontent.qmd#fourstepmethod)
 -   explain how your problem tests understanding for the three key ideas you selected
 
-**Because this is due during finals week, there will not be an opportunity to revise and resubmit this**
+This will be graded using [this rubric](pdfs/PHY 117 Problem_Project_Grading_Rubric.pdf).
+
+**Because this is due on the last day of class, there will not be an opportunity to revise and resubmit this**
 :::
 
 ## Deadlines and Extensions {#deadlines}
