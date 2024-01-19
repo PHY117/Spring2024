@@ -84,19 +84,17 @@ Given the purpose of these activities, we will not offer extensions beyond one w
 
 #### Practice (30%)
 
-Good note-taking and regular problem-solving are very important to developing confidence and skill in this content, so every week you will have to turn in your Cornell Notes for the class and a short weekly problem set. More details below:
+Regular problem-solving is very important to developing confidence and skill in this content, so every week you will have a short weekly problem set as well as a self-reflection form. 
 
--   Weekly Cornell Notes
-    -   This will include one initial assignment to demonstrate how to do Cornell Notes
-    -   You turn in a picture or scan of these in Moodle
-    -   To learn more about Cornell Notes, there is a detailed walkthrough in the [FAQ](faq.qmd#cornellnotes)
-    -   Cornell Notes assignments are graded with a [rubric](pdfs/PHY 117 Cornell_Notes_Grading_Rubric.pdf)
--   Weekly Problem Sets
-    -   The first question on the weekly problem set is a reflection on the previous problem set
-    -   You may either turn these in on paper during class on the due date or by midnight that night by scanning and uploading as a PDF to Moodle
-    -   The weekly problem set are graded using a [rubric](pdfs/PHY 117 WHW_Grading_Rubric.pdf) 
+You will turn in the weekly problem set by scanning and uploading as a PDF to Moodle. These are due by midnight each Monday.
 
-**You can drop any 4 items in the "Practice" bundle with no penalty**
+The weekly problem set are self-graded. Here's how that works:
+
+-   You get 50% of the points just for submitting the homework on time. 
+-   When you submit your work, you will receive access to the solutions.
+-   The rest of the points come from comparing your work to the solutions and filling out a guided self-reflection form.
+-   These forms are not intended to make you do "extra work" -- these are to help both you and your instructors understand where you need more practice and more support.
+
 
 #### Labs and Lab Reports (25%)
 
@@ -144,6 +142,23 @@ The student becomes the teacher... your final project for this class is to write
 This will be graded using [this rubric](pdfs/PHY 117 Problem_Project_Grading_Rubric.pdf).
 
 **Because this is due on the last day of class, there will not be an opportunity to revise and resubmit this**
+
+#### Extra Credit: Cornell Notes
+
+A good note-taking process can really help, not just with organization, but also with building the habit of reviewing critically the content of the past week.
+
+As extra credit, you can turn in weekly Cornell Notes. 
+
+Weekly Cornell Notes
+    -   This will include one initial assignment to demonstrate how to do Cornell Notes
+    -   You turn in a picture or scan of these in Moodle
+    -   To learn more about Cornell Notes, there is a detailed walkthrough in the [FAQ](faq.qmd#cornellnotes)
+    -   Cornell Notes assignments are graded with a [rubric](pdfs/PHY 117 Cornell_Notes_Grading_Rubric.pdf)
+
+For every three Cornell Notes assignments that you receive a "Satisfactory" or "Excellent" grade on, we will round your grade up. So if you have a B and turn in three "Satisfactory" or "Excellent" Cornell Notes, your grade will become a B+.  If you have six "Satisfactory" or "Excellent" Cornell Notes, your grade will become an A-, etc.
+
+**The Cornell Notes practice assignment, while it contains three parts, is graded as one Cornell Notes, not three.**
+
 :::
 
 ## Deadlines and Extensions {#deadlines}
