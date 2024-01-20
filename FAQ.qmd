@@ -30,9 +30,9 @@ jupyter: python3
 
 ## Where do I get my textbook?
 
-First: **do not buy a copy of the book** -- it's available to borrow for the entire semester from Nielsen Library. Please ask for "Physicists for Scientists and Engineers" or just "the textbook for PHY 117" at the front desk.
+First: **do not buy a copy of the book** -- it's available to borrow for the entire semester from Nielsen Library. Please ask for "Physics for Scientists and Engineers" or just "the textbook for PHY 117" at the front desk.
 
-If you decide you love this textbook so much that you would like to buy a copy for yourself to keep forever, of course feel free to do so. The book is the [second edition of Knight's "Physicists for Scientists and Engineers."](https://www.amazon.com/Physics-Scientists-Engineers-Strategic-Approach/dp/0805327363) But we strongly recommend that you not do that. 
+If you decide you love this textbook so much that you would like to buy a copy for yourself to keep forever, of course feel free to do so. The book is the [second edition of Knight's "Physics for Scientists and Engineers."](https://www.amazon.com/Physics-Scientists-Engineers-Strategic-Approach/dp/0805327363) But we strongly recommend that you not do that. 
 
 ## When are your office hours? {#officehours}
 
