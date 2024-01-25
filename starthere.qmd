@@ -11,14 +11,20 @@ Welcome to PHY 117, Spring 2024!
 
 Not sure where to start? We've put together a guide.
 
+This website contains the syllabus and an FAQ. We will also be adding some physics content to the site as we go through the semester. But if you are looking for handouts, in-class activities, specific assignments, or class slides, those will all be in the course Moodle. If you are enrolled in the class but do not have access to Moodle, please let us know immediately so we can add you.
+
 # Fill out the welcome form
+
 The first thing you should do for this class is fill out the [welcome form](https://forms.gle/o1UNsMFAwyBKaJdJA). This form is quick and should be completed by the end of the first week of class. It will help your instructor to support you in this class and will only take a few minutes of your time!
 
 # Read the syllabus
+
 We've tried to make the syllabus relatively short, sweet, and well-organized. It's all on this website, so please take a minute to read the [syllabus page](syllabus.qmd).
 
 # Keep an eye on the schedule
+
 The schedule for this class is in a [google doc](https://docs.google.com/spreadsheets/d/1NN6zv30J_MdUYzjDmjOMn1q-IKhxN0H8w9O3rMQsQ1A/edit?usp=sharing) so that it can be updated as needed. Sometimes, things happen. Those things might be snow days, illnesses, travel, or just needing more time than anticipated on a topic. If needed, we may move due dates or adjust readings or topics in the schedule. We will talk about these changes in the classroom, but if you ever need to check a due date, the schedule will have the most up-to-date information.
 
 # Still have questions?
+
 If you've read the syllabus and still have questions, check out our [FAQ](FAQ.qmd). If you have a question that's not answered on that page, please feel free to email us! We tried to collect the kinds of questions we get the most to save you time, but we know that not all questions can be answered with this website and are always happy to hear from you.
