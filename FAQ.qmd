@@ -41,11 +41,17 @@ If you decide you love this textbook so much that you would like to buy a copy f
 
 Office hours:
 
--   in-person (McConnell 301A): TBD
--   [zoom](https://smith.zoom.us/j/98280229454): TBD
+-   Thursdays 1:30PM-2:30PM on zoom (link in Moodle)
+-   Fridays 12PM-1PM in McConnell 301C
 -   by appointment: see Moodle for a link to my calendly page and schedule an appointment
 
 ### Manbir
+
+Office hours:
+
+-   Mondays 11AM-12PM 
+-   Thursdays 11:30AM-12:30PM on zoom (link in Moodle)
+-   by appointment: see Moodle for how to schedule an appointment
 :::
 
 ## When is \_\_ due? {#duedates}
