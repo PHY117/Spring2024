@@ -118,7 +118,7 @@ You may revise and resubmit each lab report one time.
 
 #### Jigsaw (25%)
 
-There will be thre jigsaw activities during the semester, **but you only need to turn in two of them**. In these activities, you will be given a challenging problem to solve in small groups. Together your group must write up a "lesson plan" that demonstrates how to approach and solve that problem. In the next class period, you will be split into different groups in which each member of the group solved a different problem, and you will have to teach your problem to that group.
+There will be thre jigsaw activities during the semester, **but you only need to turn in two of them**. In these activities, you will be given a challenging problem to solve in small groups. Together your group must write up a "lesson plan" that demonstrates how to approach and solve that problem. In the next class period, your group will teach that problem to the class, and then everyone individually must write up a second solution: you may pick any of the problems taught by another group.
 
 To get credit for these jigsaws, you must:
 
