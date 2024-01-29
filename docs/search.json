@@ -270,7 +270,7 @@
     "href": "FAQ.html#where-do-i-get-my-textbook",
     "title": "FAQ",
     "section": "Where do I get my textbook?",
-    "text": "Where do I get my textbook?\nFirst: do not buy a copy of the book – it’s available to borrow for the entire semester from Nielsen Library. Please ask for “Physics for Scientists and Engineers” or just “the textbook for PHY 117” at the front desk.\nIf you decide you love this textbook so much that you would like to buy a copy for yourself to keep forever, of course feel free to do so. The book is the second edition of Knight’s “Physics for Scientists and Engineers.” But we strongly recommend that you not do that."
+    "text": "Where do I get my textbook?\nFirst: do not buy a copy of the book – it’s available to borrow for the entire semester from Nielsen Library. Please ask for “Physics for Scientists and Engineers” or just “the textbook for PHY 117” at the front desk.\nIf you decide you love this textbook so much that you would like to buy a copy for yourself to keep forever, of course feel free to do so. The book is the second edition of Knight’s “Physics for Scientists and Engineers.”."
   },
   {
     "objectID": "starthere.html",
@@ -292,5 +292,26 @@
     "title": "FAQ",
     "section": "Where do I find assignment instructions/course handouts/slides?",
     "text": "Where do I find assignment instructions/course handouts/slides?\nWe created this website to make the syllabus and basic questions about the course easy, but not everything will be here. Handouts, in-class activities, specific assignments, and class slides and/or recordings will all be in the course Moodle. Links to schedule meetings with your instructors will also be in Moodle, due to privacy considerations (this website is open to the public).\nIf you are enrolled in the class but do not have access to Moodle, please let us know immediately so we can add you."
+  },
+  {
+    "objectID": "syllabus.html#phy-115",
+    "href": "syllabus.html#phy-115",
+    "title": "Syllabus",
+    "section": "PHY 115",
+    "text": "PHY 115\nThere is an additional 1-credit course that you can take alongside PHY 117. This is called PHY 115 Quantitative Approaches to Physics.\nThis course is designed to give you extra practice connecting the math skills to the scientific concepts through individual and group work in a small class setting. Students are recommended for this course on the basis of the math assessment you take in the first week, but if you feel you would benefit from this course, please speak with your instructor. Instructor permission is needed to enroll in PHY 115."
+  },
+  {
+    "objectID": "syllabus.html#phy115",
+    "href": "syllabus.html#phy115",
+    "title": "Syllabus",
+    "section": "PHY 115",
+    "text": "PHY 115\nThere is an additional 1-credit course that you can take alongside PHY 117. This is called PHY 115 Quantitative Approaches to Physics.\nThis course is designed to give you extra practice connecting the math skills to the scientific concepts through individual and group work in a small class setting. Students are recommended for this course on the basis of the math assessment you take in the first week, but if you feel you would benefit from this course, please speak with your instructor. Instructor permission is needed to enroll in PHY 115."
+  },
+  {
+    "objectID": "FAQ.html#extrahelp",
+    "href": "FAQ.html#extrahelp",
+    "title": "FAQ",
+    "section": "What if I need more support in this class?",
+    "text": "What if I need more support in this class?\nWe have a few options to help you if you feel you would benefit from additional practice, instruction, or general physics and math suppport.\n\nThe Spinelli Center offers tutoring , including PHY 117 specific tutors. Check out their website to find the tutor hours and request additional support.\nThe Spinelli Center also often does math workshops and review sessions. You can see their offerings here\nThe Physics department has constructed a special course to be taken alongside PHY 117, called PHY 115: Quantitative Approaches to Physics. This is a 1-credit course that you can take to get more practice connecting the math to the physics concepts."
   }
 ]

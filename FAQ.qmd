@@ -32,7 +32,7 @@ jupyter: python3
 
 First: **do not buy a copy of the book** -- it's available to borrow for the entire semester from Nielsen Library. Please ask for "Physics for Scientists and Engineers" or just "the textbook for PHY 117" at the front desk.
 
-If you decide you love this textbook so much that you would like to buy a copy for yourself to keep forever, of course feel free to do so. The book is the [second edition of Knight's "Physics for Scientists and Engineers."](https://www.amazon.com/Physics-Scientists-Engineers-Strategic-Approach/dp/0805327363) But we strongly recommend that you not do that. 
+If you decide you love this textbook so much that you would like to buy a copy for yourself to keep forever, of course feel free to do so. The book is the [second edition of Knight's "Physics for Scientists and Engineers."](https://www.amazon.com/Physics-Scientists-Engineers-Strategic-Approach/dp/0805327363). 
 
 ## When are your office hours? {#officehours}
 
@@ -190,6 +190,15 @@ Second, if you are feeling really overwhelmed, consider scheduling an appointmen
 ## I have accommodations from ODS. What should I do? {#ODS}
 
 We have tried to bring the concept of [universal design](https://www.washington.edu/doit/what-universal-design-0) into how we have planned and structured this course, so we hope that any accommodations you have from ODS are already built into this course. However, we don't expect to have done this perfectly (as there is no such thing), so if you have need of certain accommodations that are not already provided by this class, please let us know and we will do our best to meet those needs.
+
+## What if I need more support in this class? {#extrahelp}
+We have a few options to help you if you feel you would benefit from additional practice, instruction, or general physics and math suppport. 
+
+-   The Spinelli Center offers [tutoring](https://www.smith.edu/academics/applied-learning-research/spinelli-center-quantitative-learning/tutoring) , including PHY 117 specific tutors. Check out their website to find the tutor hours and request additional support.
+
+-   The Spinelli Center also often does math workshops and review sessions. You can see their offerings [here](https://www.smith.edu/academics/applied-learning-research/spinelli-center-quantitative-learning/workshops-review)
+
+- The Physics department has constructed a special course to be taken alongside PHY 117, called [PHY 115: Quantitative Approaches to Physics](syllabus.qmd#phy115). This is a 1-credit course that you can take to get more practice connecting the math to the physics concepts.
 
 ```{=html}
 <!--## Why do the percentages in the grading bundles add up to more than 100? {#morethan100percent}

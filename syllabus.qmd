@@ -164,3 +164,10 @@ If you need an extension, you may request one using [this form](https://forms.gl
 In general, we are happy to be flexible. Please note, however, that some assignments will have harder deadlines. These assignments include the first Cornell Notes assignment, the math assessment, and all the Growth Mindset assignments. The reason for these hard deadlines is due to the nature of the assignments -- for example, it is not helpful for you to put off taking the math assessment and discover in the last week of class that you really should review trig. 
 
 You can see which assignments have deadline restrictions by looking at the [grading template](https://docs.google.com/spreadsheets/d/1o43gE7XIsHia5bAcqoeek3scpJ-EyI1tOqB7SRFVZX0/edit?usp=sharing).
+
+
+## PHY 115 {#phy115}
+There is an additional 1-credit course that you can take alongside PHY 117. This is called PHY 115 Quantitative Approaches to Physics.
+
+This course is designed to give you extra practice connecting the math skills to the scientific concepts through individual and group work in a small class setting. Students are recommended for this course on the basis of the math assessment you take in the first week, but if you feel you would benefit from this course, please speak with your instructor. Instructor permission is needed to enroll in PHY 115.
+
